@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/introFragment"
+        android:icon="@drawable/cross_platform"
+        android:title="Home"/>
+    <item
+        android:id="@+id/aboutFragment"
+        android:icon="@drawable/robot"
+        android:title="Tentang"/>
+    <item
+        android:id="@+id/quizFragment"
+        android:icon="@drawable/robot2"
+        android:title="Quiz"/>
+</menu>
